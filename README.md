@@ -1,7 +1,5 @@
-# Fusion World: Legacy Battles
-
-## Desafio de projeto Calculadora de Partidas Rankeadas
-
+# Projeto Acadêmico 
+## Fusion World: Legacy Battles
 Este é um projeto prático desenvolvido para a DIO. O objetivo é explorar os conceitos de JavaScript, incluindo variáveis, operadores, laços de repetição, estruturas de decisões e funções.
 
 ## Sobre o Projeto
